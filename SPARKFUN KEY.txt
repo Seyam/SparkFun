@@ -1,0 +1,21 @@
+Public URL:
+https://data.sparkfun.com/streams/g6RQKyL9nKIMpzr6VwD7
+
+Public Key:
+g6RQKyL9nKIMpzr6VwD7
+
+Private Key:
+qznwo5y21oSAGjbJmV5Y
+
+Delete Key:
+
+k3dLawbVQaSXRENpw2nB
+
+
+
+http://data.sparkfun.com/input/[publicKey]?private_key=[privateKey]&temp=[value]
+
+
+
+
+app.listen(8081,'192.168.4.56');
